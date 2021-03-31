@@ -1,2 +1,2 @@
 # john-rosier.github.io
-A collection of thoughts, memories, and prayers written by John Rosier.
+A collection of thoughts and memories written by John Rosier.
